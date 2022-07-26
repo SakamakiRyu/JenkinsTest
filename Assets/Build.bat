@@ -1,0 +1,1 @@
+"C:\Program Files\Unity\Hub\Editor\2021.3.6f1\Editor\Unity.exe" -batchmode -quit -projectPath ./ -logfile logfile.txt -executeMethod BuildCommand.Build -platform WebGL -devmode false
